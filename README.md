@@ -83,51 +83,7 @@ homework2_vimgolf5
 * 설명 
 >> 5행으로 이동하여(:5) 단어를 복사(yw)하여 행 10으로 이동하여(:10) p붙여넣기를 하려고 했으나
 >> 처음했던 시도 보다 복잡하여 처음 했던대로 시도했음.
-###
 
-# gitflow_20211109
-
-
-```
- #!/bin/bash
-
-## 도
-
-
-
-출처: https://systemdesigner.tistory.com/17 [System Designer]
-```
-
-|제목|내용|설명|
-|-----|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-
-
-
-![고양이](https://user-images.githubusercontent.com/94296757/142394490-4152f9c0-8d93-48b1-b79d-ec05a55b92f6.jpg)
-
-!<img src="https://user-images.githubusercontent.com/94296757/142394490-4152f9c0-8d93-48b1-b79d-ec05a55b92f6.jpg" width="30%" height = "30%">
-
-
-
-[Chosun] (http://www.chosun.ac.kr)
-
-[Chosun](http://www.chosun.ac.kr "Chosun University")
-
-
-*기울임*
-**굵게**
-***굵고 기울임***
-
-
-
-import numpy as np
-ar = np.zeros([3,255,255])
-print(ar.shape)
-
-```
 
 
  
