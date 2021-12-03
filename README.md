@@ -57,7 +57,7 @@ homework2_vimgolf5
 ![vimgolf과제(4)](https://user-images.githubusercontent.com/94296757/144640170-b44183e3-92e7-4dfd-af70-eb0a25fb77d1.gif)
 
 
-* **첫번째 시도(33점): :%s/y1/abs(y1)/g -> w5번 -> ctrl +a  3번 -> 위로 -> ctrl +a  2번 -> 위로 -> ctrl +a  1번  **
+* **첫번째 시도(33점): :%s/y1/abs(y1)/g -> w5번 -> ctrl +a  3번 -> 위로 -> ctrl +a  2번 -> 위로 -> ctrl +a  1번**
 
 * 설명 
 >> y1을 abs(y1)로 바꾸는 것은 쉬웠으니까
