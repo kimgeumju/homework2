@@ -11,7 +11,8 @@ homework2_vimgolf5
 ![vimgolf과제(1)](https://user-images.githubusercontent.com/94296757/144639918-2abcafa8-332c-47de-a311-89e63c9e4db9.gif)
 
 * 첫번째 시도 (13점): G -> W -> " -> esc -> $ -> i-> end키 -> " -> esc -> :x 
-* **두번째 시도 (11점): G -> W -> " -> esc -> A -> " -> esc -> :x**
+* **두번째 시도 (11점):**
+* **G -> W -> " -> esc -> A -> " -> esc -> :x**
 
 * 설명 
 >>처음에는 커서를 어떻게 맨뒤로 바로 옮길 수 있을까 생각하다가 $ -> i-> end키 를 생각했는데
@@ -27,7 +28,8 @@ homework2_vimgolf5
 
 
 * 첫번째 시도 (37점): :%s/sublime/vim/g -> :%s/emacs/vim/g
-* **두번째 시도 (27점): :%s/sublime\|emacs/vim/g -> :x**
+* **두번째 시도 (27점):**
+* **:%s/sublime\|emacs/vim/g -> :x**
 
 * 설명 
 >> sublime과 emacs를 따로따로 바꾸려다 보니 키를 더 많이 누르게 되었다.
@@ -42,7 +44,8 @@ homework2_vimgolf5
 
 
 * 첫번째 시도 (47점): :4 -> // Version TODO -> esc키 -> yy-> end키 한번 -> p -> :.s/Version/Debug/g -> :x
-* **두번째 시도 (38점): :4 -> // Version TODO -> esc키 -> yy-> end키 한번 -> p -> w -> dw -> i -> Debug +띄어쓰기 -> esc키 -> :x**
+* **두번째 시도 (38점):**
+* **:4 -> // Version TODO -> esc키 -> yy-> end키 한번 -> p -> w -> dw -> i -> Debug +띄어쓰기 -> esc키 -> :x**
 
 * 설명 
 >>처음 에는 **:.s/Version/Debug/g -> :x** 을 이용했으나  **w -> dw -> i -> Debug +띄어쓰기 -> esc키 -> :x** 을 이용하여
@@ -57,7 +60,8 @@ homework2_vimgolf5
 ![vimgolf과제(4)](https://user-images.githubusercontent.com/94296757/144640170-b44183e3-92e7-4dfd-af70-eb0a25fb77d1.gif)
 
 
-* **첫번째 시도(33점): :%s/y1/abs(y1)/g -> w5번 -> ctrl +a  3번 -> 위로 -> ctrl +a  2번 -> 위로 -> ctrl +a  1번**
+* **첫번째 시도(33점):**
+* **:%s/y1/abs(y1)/g -> w5번 -> ctrl +a  3번 -> 위로 -> ctrl +a  2번 -> 위로 -> ctrl +a  1번**
 
 * 설명 
 >> y1을 abs(y1)로 바꾸는 것은 쉬웠으니까
@@ -73,7 +77,8 @@ homework2_vimgolf5
 ![vimgolf과제(5)](https://user-images.githubusercontent.com/94296757/144640243-ca157552-2522-4c55-890d-a82620f9dea3.gif)
 
 
-* **첫번째 시도( 40점): :%s/""/"student_id,name,age,score"/g -> :x**
+* **첫번째 시도( 40점):**
+* **:%s/""/"student_id,name,age,score"/g -> :x**
 
 * 설명 
 >> 5행으로 이동하여(:5) 단어를 복사(yw)하여 행 10으로 이동하여(:10) p붙여넣기를 하려고 했으나
@@ -116,23 +121,7 @@ homework2_vimgolf5
 **굵게**
 ***굵고 기울임***
 
-* fruit
-  * Banana
-  * Apple
-  * Mango
-  * Watermelon
-    * Water
 
-```c
- #include <stdio.h>
- 
- int main(void)
- {
-  printf("Hello World\n");
-  return 0;
- }
- ```
-```python
 
 import numpy as np
 ar = np.zeros([3,255,255])
