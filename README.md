@@ -5,6 +5,8 @@ homework2_vimgolf5
 ## (1)  5f0f5fbe280fbf000c233304
 * 5f0f5fbe280fbf000c233304
 * 최고점 : 8점
+
+
 ![vimgolf과제(1)](https://user-images.githubusercontent.com/94296757/144639918-2abcafa8-332c-47de-a311-89e63c9e4db9.gif)
 
 * 첫번째 시도 (13점): G -> W -> " -> esc -> $ -> i-> end키 -> " -> esc -> :x 
