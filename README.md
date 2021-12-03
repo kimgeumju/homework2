@@ -4,7 +4,8 @@ homework2_vimgolf5
 # vim golf의 문제 리스트 5가지
 ## (1)  5f0f5fbe280fbf000c233304
 
-* 최고점 : 8점
+* 이 문제의 최고점 : 8점
+* **나의 최고점: 11점**
 
 
 ![vimgolf과제(1)](https://user-images.githubusercontent.com/94296757/144639918-2abcafa8-332c-47de-a311-89e63c9e4db9.gif)
@@ -20,6 +21,7 @@ homework2_vimgolf5
 ## (2) 603ba26a01b4d00009c10a49
 
 * 최고점 : 19점
+* **나의 최고점: 27점**
 
 ![vimgolf과제(2)](https://user-images.githubusercontent.com/94296757/144640078-56d2b540-3d1a-4b50-9310-e7c1cc9265be.gif)
 
@@ -34,6 +36,7 @@ homework2_vimgolf5
 ## (3)  5f1063aa8361810006e73210
 
 * 최고점 : 20점
+* **나의 최고점: 38점**
 
 ![vimgolf과제(3)](https://user-images.githubusercontent.com/94296757/144640127-e0e7f35f-5989-47f1-a4b3-12b9894dabff.gif)
 
@@ -49,6 +52,7 @@ homework2_vimgolf5
 ## (4) 9v0060da5177000000000209
 
 * 최고점 : 34점
+* **나의 최고점: 33점**
 
 ![vimgolf과제(4)](https://user-images.githubusercontent.com/94296757/144640170-b44183e3-92e7-4dfd-af70-eb0a25fb77d1.gif)
 
@@ -64,6 +68,7 @@ homework2_vimgolf5
 ## (5)  6013804df3308e0009368f1c
 
 * 최고점 : 19점
+* **나의 최고점: 40점**
 
 ![vimgolf과제(5)](https://user-images.githubusercontent.com/94296757/144640243-ca157552-2522-4c55-890d-a82620f9dea3.gif)
 
